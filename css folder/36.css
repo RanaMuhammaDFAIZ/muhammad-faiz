@@ -5,3 +5,13 @@
     margin-bottom: 0.5em;
     margin-top: 0.5em;
 }
+
+.lo{
+    background-color: #f44336;
+    color: rgb(93, 22, 174);
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
