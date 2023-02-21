@@ -1,0 +1,11 @@
+.bulb{
+    background: -webkit-linear-gradient(rgba(242, 63, 63, 0), 
+     rgba(210, 21, 21, 0)), 
+     linear-gradient(101deg, #0b179e, #d79613, #7ef30a, #e71eb8);
+     
+}
+
+.bulb-container{
+height: 300px;
+width: 300px;
+}
