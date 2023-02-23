@@ -1,0 +1,20 @@
+#first{
+justify-content: center;
+align-items: center;
+display: flex;
+width: auto;
+height: 200px;
+margin: 0px 10px;
+}
+
+body {
+    font-family: system-ui;
+   
+    background: -webkit-linear-gradient(rgba(242, 63, 63, 0), 
+     rgba(210, 21, 21, 0)), 
+     linear-gradient(101deg, #0b179e, #d79613, #7ef30a, #e71eb8);
+     
+
+    color:blue;
+    text-align: center;
+  }
