@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Shantell+Sans:wght@300;400&display=swap');
+
+body{
+    font-family: 'Shantell Sans', cursive;
+    color: green;
+ font-size: 50px;
+    background-color: black;
+    background: url("../pictur/hacker-simulator.jpg" )  no-repeat center center fixed ;
+}

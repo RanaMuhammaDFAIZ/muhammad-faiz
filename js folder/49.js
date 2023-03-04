@@ -11,4 +11,4 @@ let c = document.getElementById("Twitter").addEventListener("click", function() 
 setInterval(async function() {
 document.getElementById("bulb").classList.toggle("bulb");
 
-},500)
+},100)
